@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,AAAC,CACH,QAAQ,CAAE,QAAQ,CAClB,SAAS,CAAE,MAAM,CACjB,MAAM,CAAE,MAAM,CAOmB,AANhC,AAAD,YAAO,AAAC,CACJ,UAAU,CAAE,MAAM,CAClB,SAAS,CAAE,IAAI,CACf,OAAO,CAAE,KAAK,CACd,UAAU,CAAE,IAAI,CAChB,aAAa,CAAE,CAAC,CAChB,KAAK,CAAE,OAAiB,CAAG",
+    "sources": [
+        "../components/Snake/Snake.sass"
+    ],
+    "names": [],
+    "file": "Snake.min.css"
+}
